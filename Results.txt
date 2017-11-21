@@ -1,0 +1,126 @@
+==================================================
+===================Results========================
+Genome Legend: 
+ 1 = get_away_from_wall 
+ 2 = get_closer_x 
+ 3 = get_closer_y 
+ 4 = while_not_hit_wall 
+ 5 = while_too_far_away_from_destination 
+ 6 = simple_move
+__________________________________________________
+ Successfull genome:
+
+< while_too_far_away_from_destination >
+
+< get_closer_x >
+
+< while_not_hit_wall >
+
+< get_closer_y >
+
+< simple_move >
+
+< while_too_far_away_from_destination >
+
+< simple_move >
+
+< get_closer_y >
+
+< get_closer_y >
+
+__________________________________________________
+Final success percentage: 90%
+
+__________________________________________________
+Successful Robots:
+__________________________________________________
+Robot No:  1  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  2  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  3  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  4  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  5  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  6  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  7  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  8  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  9  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  10  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  11  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  12  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  13  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  14  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  15  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  16  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  17  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  18  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  19  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  20  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  21  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  22  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  23  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  24  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  25  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  26  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  27  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  28  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  29  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  30  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  31  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  32  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  33  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  34  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  35  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  36  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  37  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  38  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  39  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  40  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  41  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  42  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  43  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  44  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  45  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  46  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  47  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  48  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  49  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  50  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  51  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  52  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  53  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  54  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  55  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  56  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  57  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  58  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  59  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  60  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  61  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  62  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  63  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  64  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  65  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  66  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  67  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  68  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  69  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  70  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  71  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  72  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  73  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  74  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  75  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  76  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  77  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  78  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  79  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  80  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  81  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  82  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  83  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  84  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  85  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  86  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  87  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  88  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  89  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
+Robot No:  90  Pos : [2, 6]  Fitness:  42   [5, 2, 4, 3, 6, 5, 6, 3, 3]
